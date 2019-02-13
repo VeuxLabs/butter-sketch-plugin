@@ -1,3 +1,6 @@
+# THIS VERSION HAS BEEN FIXED TO WORK WITH SKETCH 53
+### IT IS JUST A HACK TO THE CODE USING CODE FROM A PULL REQUEST THAT HASN'T BEEN MERGED YET IN THE PRIMARY REPO
+
 <img src="images/preview.gif?raw=true" width="880">
 
 # Butter Sketch Plugin
@@ -18,7 +21,7 @@
 Remove white space and overlaps with one shortcut.
 
 
-### Add quick, consistent spacing between objects 
+### Add quick, consistent spacing between objects
 
 Space and distribute layers evenly in rows or columns. Simpler than the grid or distribute tool. A massive time saver! ⏱
 
